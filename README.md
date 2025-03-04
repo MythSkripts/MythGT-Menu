@@ -2,7 +2,8 @@
 
 
 # 📥 Installation (It’s Easy, I Promise)  
-1️⃣ **Download** the latest release 👉 [here](https://github.com/MythSkripts/MythGT-Menu/releases/tag/1.1.3)  
+💸 **Purchase Menu** buy here 👉 [here](https://payhip.com/b/LhtcI)
+1️⃣ **Download** the latest release
 2️⃣ **Drag & Drop** `MythGT Menu` into your **plugins** folder  
 3️⃣ **Launch** Gorilla Tag and enjoy!
 Done. That’s it. Go have fun. 🎮🔥
